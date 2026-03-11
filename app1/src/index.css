@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+   margin:0px;
+}
+.title{
+  color: brown;
+  background-color: yellow;
+}
+#test{
+  background-color: lightcyan;
+  color: red;
+}
+h1{
+  color: maroon;
+}
